@@ -5,10 +5,7 @@
 <img src="https://latex.codecogs.com/gif.latex?A=\begin{bmatrix}&space;2&space;&&space;4\\&space;1&space;&&space;3&space;\end{bmatrix}" title="A=\begin{bmatrix} 2 & 4\\ 1 & 3 \end{bmatrix}" />
 
 
-$B=\begin{bmatrix}
--2 & 1\\
-0 & 4 
-\end{bmatrix}$
+<a href="https://www.codecogs.com/eqnedit.php?latex=B=\begin{bmatrix}&space;-2&space;&&space;1\\&space;0&space;&&space;4&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?B=\begin{bmatrix}&space;-2&space;&&space;1\\&space;0&space;&&space;4&space;\end{bmatrix}" title="B=\begin{bmatrix} -2 & 1\\ 0 & 4 \end{bmatrix}" /></a>
 
 $C=\begin{bmatrix}
 3 & 1\\
