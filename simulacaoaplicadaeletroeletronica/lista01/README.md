@@ -2,10 +2,8 @@
 #####Resolva as questões com o auxílio do Scilab.
 1. Declare as matrizes A, B e C:
 
-$A=\begin{bmatrix}
-2 & 4\\
-1 & 3 
-\end{bmatrix}$
+\[A=\begin{bmatrix} 2 & 4\\ 1 & 3 \end{bmatrix}\]
+
 
 $B=\begin{bmatrix}
 -2 & 1\\
