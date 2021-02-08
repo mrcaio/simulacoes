@@ -17,7 +17,7 @@ $C=\begin{bmatrix}
 2 & 1 
 \end{bmatrix}$
 
-[i. Verifique se $(A+B)+C = A+(B+C) $](../1i.m)
+[i. Verifique se $(A+B)+C = A+(B+C) $](../lista01/1i.m)
 
 [ii. Verifique se $(AB)C = A(BC)$](../1ii.m)
 
