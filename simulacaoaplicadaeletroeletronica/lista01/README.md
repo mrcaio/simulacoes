@@ -2,32 +2,7 @@
 #####Resolva as questões com o auxílio do Scilab.
 1. Declare as matrizes A, B e C:
 
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <mi>A</mi>
-  <mo>=</mo>
-  <mrow>
-    <mo>[</mo>
-    <mtable rowspacing="4pt" columnspacing="1em">
-      <mtr>
-        <mtd>
-          <mn>2</mn>
-        </mtd>
-        <mtd>
-          <mn>4</mn>
-        </mtd>
-      </mtr>
-      <mtr>
-        <mtd>
-          <mn>1</mn>
-        </mtd>
-        <mtd>
-          <mn>3</mn>
-        </mtd>
-      </mtr>
-    </mtable>
-    <mo>]</mo>
-  </mrow>
-</math>
+<img src="https://latex.codecogs.com/gif.latex?A=\begin{bmatrix}&space;2&space;&&space;4\\&space;1&space;&&space;3&space;\end{bmatrix}" title="A=\begin{bmatrix} 2 & 4\\ 1 & 3 \end{bmatrix}" />
 
 
 $B=\begin{bmatrix}
