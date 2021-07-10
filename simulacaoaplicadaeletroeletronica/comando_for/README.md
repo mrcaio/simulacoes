@@ -26,8 +26,10 @@ Resistências= [ 10.34 10.42 10.25 9.82 10.33 9.66 10.27 10.25 10.30 9.50 9.55 9
 
     0.3982358
 
-2.  [Teste seu programa com um lote de 100 resistores. Gere os valores das medidas com a seguinte linha de comando:](https://github.com/mrcaio/simulacaoaplicada/blob/main/simulacaoaplicadaeletroeletronica/comando_for/2.m)
-<br/>
-`R=(rand(1,100)-0.5) + 10;`
+2.  [Teste seu programa com um lote de 100 resistores. Gere os valores das medidas com a seguinte linha de comando:](https://github.com/mrcaio/simulacaoaplicada/blob/main/simulacaoaplicadaeletroeletronica/comando_for/2.m)<br/>
+`
+R=(rand(1,100)-0.5) + 10;
+`<br/>
+
 
 0.3006370
