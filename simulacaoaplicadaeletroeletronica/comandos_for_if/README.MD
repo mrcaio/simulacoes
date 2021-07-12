@@ -49,8 +49,8 @@ end
 ## Questões
 
 1.  [Utilize as estruturas *if-then* e *for* e desenvolva um programa Scilab/Matlab para gerar a forma de onda da função seno mostrada na figura abaixo:](simulacaoaplicadaeletroeletronica\comandos_for_if\1.m) <br/>
-![Questão 1](simulacaoaplicadaeletroeletronica\comandos_for_if\img\1.png)<br/>
-![Questão 1 resposta](simulacaoaplicadaeletroeletronica\comandos_for_if\img\1r.png)<br/>
+![Questão 1](https://github.com/mrcaio/simulacaoaplicada/blob/main/simulacaoaplicadaeletroeletronica/comandos_for_if/img/1.png?raw=true)<br/>
+![Questão 1 resposta](https://github.com/mrcaio/simulacaoaplicada/blob/main/simulacaoaplicadaeletroeletronica/comandos_for_if/img/1r.png?raw=true)<br/>
 
 2.  [Desenvolva  um  programa  Scilab/Matlab,  usando  oscomandos“fore  if”, para calcular o  valor médio da forma de ondagerada no gráfico anterior.](simulacaoaplicadaeletroeletronica\comandos_for_if\2.m) 
-![Resposta questão 2](simulacaoaplicadaeletroeletronica\comandos_for_if\img\2.png) 
+![Resposta questão 2](https://github.com/mrcaio/simulacaoaplicada/blob/main/simulacaoaplicadaeletroeletronica/comandos_for_if/img/2.png?raw=true) 
