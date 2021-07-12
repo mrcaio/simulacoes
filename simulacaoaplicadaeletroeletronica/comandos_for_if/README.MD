@@ -52,5 +52,5 @@ end
 ![Questão 1](https://github.com/mrcaio/simulacaoaplicada/blob/main/simulacaoaplicadaeletroeletronica/comandos_for_if/img/1.png?raw=true)<br/>
 ![Questão 1 resposta](https://github.com/mrcaio/simulacaoaplicada/blob/main/simulacaoaplicadaeletroeletronica/comandos_for_if/img/1r.png?raw=true)<br/>
 
-2.  [Desenvolva  um  programa  Scilab/Matlab,  usando  oscomandos“fore  if”, para calcular o  valor médio da forma de ondagerada no gráfico anterior.](simulacaoaplicadaeletroeletronica\comandos_for_if\2.m) 
+2.  [Desenvolva  um  programa  Scilab/Matlab,  usando  oscomandos“fore  if”, para calcular o  valor médio da forma de ondagerada no gráfico anterior.](simulacaoaplicadaeletroeletronica\comandos_for_if\2.m) <br/>
 ![Resposta questão 2](https://github.com/mrcaio/simulacaoaplicada/blob/main/simulacaoaplicadaeletroeletronica/comandos_for_if/img/2.png?raw=true) 
